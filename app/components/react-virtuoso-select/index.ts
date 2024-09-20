@@ -1,3 +1,3 @@
-import ReactVirtuSelect from "./ReactVirtuSelect";
+import ReactVirtuSelect from "./ReactVirtualizedSelect";
 
 export default ReactVirtuSelect;

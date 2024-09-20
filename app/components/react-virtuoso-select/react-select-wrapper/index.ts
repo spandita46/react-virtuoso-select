@@ -1,6 +1,3 @@
-import ReactSelect, {
-  DefaultOptionType,
-  IReactSelectWrapperProps,
-} from "./ReactSelWrapped";
+import ReactSelect, { IReactSelectWrapperProps } from "./ReactSelectWrapper";
 export type IReactSelectProps<Option> = IReactSelectWrapperProps<Option>;
 export default ReactSelect;
